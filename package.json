@@ -1,5 +1,5 @@
 {
-  "name": "ashano-dev",
+  "name": "fiqrychoerudin.dev",
   "version": "1.2.0",
   "private": true,
   "scripts": {
@@ -16,6 +16,7 @@
     "esbuild": "^0.12.15",
     "github-slugger": "^1.4.0",
     "gray-matter": "^4.0.2",
+    "framer-motion": "^6.2.4",
     "image-size": "1.0.0",
     "isomorphic-unfetch": "^3.1.0",
     "mdx-bundler": "^6.0.1",
