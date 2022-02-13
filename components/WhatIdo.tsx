@@ -56,7 +56,7 @@ export default function WhatIdo() {
               Design
             </h1>
             <p className="text-gray-600 dark:text-gray-300">
-              besides coding, I also like design, I usually design using Figma or similar tools.
+              Besides coding, I also like design, I usually design using Figma or similar tools.
             </p>
           </div>
         </div>
