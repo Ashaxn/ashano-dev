@@ -47,7 +47,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
           </div>
         </div>
         <h1 className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14">
-          Recent Post
+          Recent Posts
         </h1>
         <ul className="sdivide-gray-200">
           {!posts.length && 'No posts found.'}
@@ -81,7 +81,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
             className="text-emerald-500 font-bold hover:text-emerald-600 dark:hover:text-emerald-700"
             aria-label="all posts"
           >
-            Read All Post &rarr;
+            Read All Posts &rarr;
           </Link>
         </div>
       )}
@@ -90,7 +90,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
       </div>
       <div className="py-7">
         <h1 className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14">
-          My <span className="text-emerald-500">Spotify</span> Top Song
+          My <span className="text-emerald-500">Spotify</span> Top Songs
         </h1>
         <TopTracks />
       </div>

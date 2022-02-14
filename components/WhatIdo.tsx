@@ -11,7 +11,7 @@ export default function WhatIdo() {
               <span className="pr-2" role="img" aria-label="wave">
                 ⚙
               </span>
-              Building Project
+              Building Projects
             </h1>
             <p className="text-gray-600 dark:text-gray-300">
               I'm very active on Github to create open-source projects or personal projects,
